@@ -1,7 +1,8 @@
 # ETG---INVENTORY-MANAGEMENT-SYSTEM-USING-PYTHON
 PYTHON CODE FOR MAKING INVENTORY MANAGEMENT SYSTEM FOR BAKERY USING JSON
-- Inventory Management System using JSON for storing the Inventory items on the (record.json)JSON file, Printing Bills for Users and finally updating the changes to the (sales.json)JSON file
-- At first Data from Dictionary are dumped into JSON file named record.json and loaded again from the same JSON file, for manipulation and Billing Process
-- Once Billing Process is done then the changes are dumped into another JSON file named sales.json
+- Inventory Management System using JSON for purchasing and storing the Inventory items on the (record.json)JSON file, Printing Bills for customers and finally updating the changes in the quantity of the products into the (sales.json)JSON file
+- At first Data from Dictionary are dumped into JSON file named record.json and some products are then puschased and again loaded onto the same JSON file named record.json
+- Then the data are obtained from the record.json file, for manipulation and Billing Process
+- Once Manipulation and Billing Process is done then the changes are dumped into another JSON file named sales.json
 - Entire coding in done in Python Programming Language
 
