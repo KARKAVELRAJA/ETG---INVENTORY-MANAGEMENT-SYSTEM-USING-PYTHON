@@ -23,8 +23,8 @@ ______
 - Adding/Purchasing the products
 - Storing the added/purchased products into record.json
 - Selling the products
-- Storing the Updated Product Details after Sales into sales.json
 - Printing Bills
+- Storing the Updated Product Details after Sales into sales.json
 
 
 
