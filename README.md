@@ -12,7 +12,7 @@ ______
 
 ### FILES
 
-- record.json - consists of added/purchased Products
+- record.json - consists of Added/Purchased Products
 - sales.json - consists of updated details of Products after Sales
 
 
