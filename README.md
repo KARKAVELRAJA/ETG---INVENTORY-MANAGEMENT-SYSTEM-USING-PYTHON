@@ -21,7 +21,7 @@ ______
 ### FEATURES
 
 - Adding/Purchasing the products
-- Storing the added/purchased products into record.json
+- Storing the Added/Purchased products into record.json
 - Selling the products
 - Printing Bills
 - Storing the Updated Product Details after Sales into sales.json
